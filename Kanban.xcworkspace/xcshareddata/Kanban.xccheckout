@@ -10,6 +10,8 @@
 	<string>Kanban</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>1686CE65F627F6544365D1672369E6B39E03FA42</key>
+		<string>https://github.com/jenkinsGlobant/test.git</string>
 		<key>DCC5D532DF29BE2DBEE9DCAD4ACFD020A1BCD08D</key>
 		<string>https://github.com/nporpigliaglobant/Kanban.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>Kanban.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>DCC5D532DF29BE2DBEE9DCAD4ACFD020A1BCD08D</key>
+		<key>1686CE65F627F6544365D1672369E6B39E03FA42</key>
 		<string>..</string>
+		<key>DCC5D532DF29BE2DBEE9DCAD4ACFD020A1BCD08D</key>
+		<string>../../Kanban</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/nporpigliaglobant/Kanban.git</string>
+	<string>https://github.com/jenkinsGlobant/test.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>DCC5D532DF29BE2DBEE9DCAD4ACFD020A1BCD08D</string>
+	<string>1686CE65F627F6544365D1672369E6B39E03FA42</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>DCC5D532DF29BE2DBEE9DCAD4ACFD020A1BCD08D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Kanban</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1686CE65F627F6544365D1672369E6B39E03FA42</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Kanbanpush</string>
 		</dict>
 	</array>
 </dict>
